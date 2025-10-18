@@ -15,7 +15,20 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+```
+a=(0==True)
+b=(False==False)
+c=(True+True)
+d=(False+9)
+print("a is:",a)
+print("b is:",b)
+print("c is:",c)
+print("d is:",d)
+
+```
 
 ## Output
+<img width="1891" height="502" alt="Screenshot 2025-10-18 222536" src="https://github.com/user-attachments/assets/48c4375c-9ba1-482d-8af8-b53c3b13efc5" />
+
 ## Result
+The Datatypes-Boolean Expression Evaluation in Python is executed successfully.
